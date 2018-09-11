@@ -1,3 +1,8 @@
+/*
+    just consider contiguous block of elements such that there are k+1 or less distinct elements. Then, for each of these
+    contigous subsequences you have to find maximum number of elements of same kind
+*/
+
 #include <bits/stdc++.h>
 using namespace std;
 
